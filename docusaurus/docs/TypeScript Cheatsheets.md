@@ -26,7 +26,7 @@ sidebar_label: TypeScript Cheatsheets
 
 ## Basic Cheatsheet
 
-### Basic Cheatsheet Table of Contents
+### Basic Cheatsheet Table of Content
 
 <details>
 
