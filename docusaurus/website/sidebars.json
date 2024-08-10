@@ -54,6 +54,7 @@
       "advanced-configuration",
       "alternatives-to-ejecting"
     ],
-    "Support": ["troubleshooting"]
+    "Support": ["TypeScript Cheatsheets",
+      "troubleshooting"]
   }
 }
