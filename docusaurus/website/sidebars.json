@@ -54,10 +54,6 @@
       "advanced-configuration",
       "alternatives-to-ejecting"
     ],
-    "Support": ["TypeScript Cheatsheets",
-      "Let Contribute Together",
-      "freeCodeCamp",
-      "troubleshooting"
-    ]
+    "Support": ["troubleshooting"]
   }
 }
