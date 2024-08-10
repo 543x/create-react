@@ -3,7 +3,7 @@ id: Let Contribute Together
 title: Let Contribute Together
 sidebar_label: Let Contribute Together
 ---
-# Let's Contribute Together! 🚀
+# Let Contribute Together! 🚀
 
 We appreciate your interest in contributing to this project. Here are some core principles and a simplified project structure to make your contribution process more efficient and effective:
 
