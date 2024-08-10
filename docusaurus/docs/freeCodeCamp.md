@@ -3,8 +3,6 @@ id: freeCodeCamp
 title: freeCodeCamp
 sidebar_label: freeCodeCamp
 ---
-## Table of Content
-
 - [Certifications](#certifications)
 - [The Learning Platform](#the-learning-platform)
 - [Reporting Bugs and Issues](#reporting-bugs-and-issues)
