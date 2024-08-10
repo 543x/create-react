@@ -55,7 +55,7 @@
       "alternatives-to-ejecting"
     ],
     "Support": [
-      "react-native",
+       "react-native",
       "troubleshooting"
     ]
   }
