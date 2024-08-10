@@ -1,7 +1,7 @@
 ---
-id: Let's Contribute Together
-title: Let's Contribute Together
-sidebar_label: Let's Contribute Together
+id: Let Contribute Together
+title: Let Contribute Together
+sidebar_label: Let Contribute Together
 ---
 # Let's Contribute Together! 🚀
 
