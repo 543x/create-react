@@ -54,9 +54,6 @@
       "advanced-configuration",
       "alternatives-to-ejecting"
     ],
-    "Support": [
-       "react-native",
-      "troubleshooting"
-    ]
+    "Support": ["troubleshooting"]
   }
 }
