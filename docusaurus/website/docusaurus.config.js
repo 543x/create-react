@@ -9,7 +9,7 @@
 const siteConfig = {
   title: 'Create React App',
   tagline: 'Set up a modern web app by running one command.',
-  url: 'https://create-react-app.dev',
+  url: 'https://e.543x.com',
   baseUrl: '/',
   projectName: 'create-react-app',
   organizationName: 'facebook',
@@ -38,7 +38,7 @@ const siteConfig = {
       id: 'support_ukraine',
       content:
         'Support Ukraine 🇺🇦 <a target="_blank" rel="noopener noreferrer" \
-        href="https://opensource.facebook.com/support-ukraine"> Help Provide Humanitarian Aid to Ukraine</a>.',
+        href="https://543x.com"> Help Provide Humanitarian Aid to Ukraine</a>.',
       backgroundColor: '#20232a',
       textColor: '#fff',
       isCloseable: false,
@@ -57,7 +57,7 @@ const siteConfig = {
       items: [
         { to: 'docs/getting-started', label: 'Docs', position: 'right' },
         {
-          href: 'https://reactjs.org/community/support.html',
+          href: 'https://r.543x.com',
           label: 'Help',
           position: 'right',
         },
@@ -80,7 +80,7 @@ const siteConfig = {
             },
             {
               label: 'Learn React',
-              href: 'https://reactjs.org/',
+              href: 'https://r.543x.com',
             },
           ],
         },
@@ -88,20 +88,20 @@ const siteConfig = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/create-react-app',
+              label: 'you',
+              href: 'https://a.543x.com',
             },
             {
               label: 'GitHub Discussions',
               href: 'https://github.com/facebook/create-react-app/discussions',
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/reactjs',
+              label: 'Pump',
+              href: 'https://pump.543x.com',
             },
             {
-              label: 'Contributor Covenant',
-              href: 'https://www.contributor-covenant.org/version/1/4/code-of-conduct',
+              label: 'Swap',
+              href: 'https://s.543x.com',
             },
           ],
         },
@@ -110,7 +110,11 @@ const siteConfig = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://www.github.com/facebook/create-react-app',
+              href: 'https://github.com/543x/react',
+            },
+            {
+              label: '543x.com',
+              href: 'https://543x.com',
             },
           ],
         },
