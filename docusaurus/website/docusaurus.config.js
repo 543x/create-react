@@ -38,7 +38,7 @@ const siteConfig = {
       id: 'support_ukraine',
       content:
         'Support Ukraine 🇺🇦 <a target="_blank" rel="noopener noreferrer" \
-        href="https://543x.com"> Help Provide Humanitarian Aid to Ukraine</a>.',
+        href="https://www.543x.com"> Help Provide Humanitarian Aid to Ukraine</a>.',
       backgroundColor: '#20232a',
       textColor: '#fff',
       isCloseable: false,
@@ -113,8 +113,8 @@ const siteConfig = {
               href: 'https://github.com/543x/react',
             },
             {
-              label: '543x.com',
-              href: 'https://543x.com',
+              label: 'www.543x.com',
+              href: 'https://www.543x.com',
             },
           ],
         },
